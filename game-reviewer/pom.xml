@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.foreverdiamonds.util</groupId>
-  <artifactId>review-scraper</artifactId>
+  <artifactId>game-reviewer</artifactId>
   <version>1</version>
 
-  <name>review-scraper</name>
+  <name>game-reviewer</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
